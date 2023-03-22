@@ -29,4 +29,5 @@ That's it! With these steps, you should be able to use the Discord Webhook GUI s
 
 
 
-#if it dosent let you open with cmd you want to have visual studio code downloaded and then open the main file and you have to have the python debugger downloaded and after that boom you have it!
+# if it dosent let you open with cmd you want to have visual studio code downloaded and then open the main file and you have to have the python debugger downloaded and after that boom you have it!
+
