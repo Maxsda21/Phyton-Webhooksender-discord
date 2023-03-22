@@ -26,3 +26,7 @@ python discord_webhook_gui.py
 This will launch the script and open the Discord Webhook GUI window. You can enter your Discord webhook URL in the first window, and then enter your message and click the "Send" button in the second window to send a message to the specified webhook.
 
 That's it! With these steps, you should be able to use the Discord Webhook GUI script even if you don't have Python or requests installed on your system.
+
+
+
+#if it dosent let you open with cmd you want to have visual studio code downloaded and then open the main file and you have to have the python debugger downloaded and after that boom you have it!#
