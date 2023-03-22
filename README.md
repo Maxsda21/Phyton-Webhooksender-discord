@@ -12,7 +12,7 @@ Install requests: Once you have pip installed, you can use it to install the req
 pip install requests
 This will download and install the requests library and all its dependencies on your system.
 
-Download the Discord Webhook GUI script: You can download the script from the GitHub repository where it is hosted (https://github.com/USERNAME/REPOSITORY). Click the "Code" button and select "Download ZIP" to download a zip file containing the script and all its dependencies.
+Download the Discord Webhook GUI script: You can download the script from the GitHub repository where it is hosted (https://github.com/Maxsda21/Phyton-Webhooksender-discord). Click the "Code" button and select "Download ZIP" to download a zip file containing the script and all its dependencies.
 
 Extract the zip file: Once the zip file has downloaded, extract it to a convenient location on your system, such as your desktop or Downloads folder.
 
